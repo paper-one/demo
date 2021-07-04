@@ -3,7 +3,9 @@
 
 #### ONEPAPER 战队</br></br></br></br>
 
-<img src="https://images.gitee.com/uploads/images/2021/0704/163023_2ce44d13_345098.png" width="40%">  
+<img src="https://github.com/paper-one/demo/blob/93c704b780b8da983cdeb333c359c23906aa2f54/one-paper%20logo.png" width="40%">  
+
+
 
 </br></br>通过区块链形式，将文件，期刊，论文进行传播和共享。借助基于区块链的分散式云储存，数据的保留和传输更加安全。用户可以将磁盘空间进行共享，为one paper 提供储存空间并获得代币。
 
@@ -22,7 +24,7 @@
 
 #### One Paper机器人</br>
 
-<img src="https://images.gitee.com/uploads/images/2021/0704/162004_39da0477_345098.png" width="30%"> </br></br>
+<img src="https://github.com/paper-one/demo/blob/main/logo2.png" width="30%"> </br></br>
 
 ### 项目官网及演示地址</br>
 
@@ -50,15 +52,18 @@
 
 ### 项目截图展示
 
-<img src="https://images.gitee.com/uploads/images/2021/0704/170348_4b8c4e41_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170358_f35e05b4_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170416_ed1884db_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170434_834dec46_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170449_54bbcbd2_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170508_a18fbc28_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170525_c862fe2b_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170536_f39f3cca_345098.png">
-<img src="https://images.gitee.com/uploads/images/2021/0704/170601_99a3dce9_345098.png">
+<img src="https://github.com/paper-one/demo/blob/main/1.png">
+<img src="https://github.com/paper-one/demo/blob/main/2.png">
+<img src="https://github.com/paper-one/demo/blob/main/3.png">
+<img src="https://github.com/paper-one/demo/blob/main/4.png">
+<img src="https://github.com/paper-one/demo/blob/main/5.png">
+<img src="https://github.com/paper-one/demo/blob/main/6.png">
+<img src="https://github.com/paper-one/demo/blob/main/7.png">
+<img src="https://github.com/paper-one/demo/blob/main/8.png">
+<img src="https://github.com/paper-one/demo/blob/main/9.png">
+<img src="https://github.com/paper-one/demo/blob/main/10.png">
+<img src="https://github.com/paper-one/demo/blob/main/11.png">
+<img src="https://github.com/paper-one/demo/blob/main/12.png">
 
 
 
